@@ -1,0 +1,34 @@
+Cutoff: 0.5 
+Accuracy: 0.8423963 
+Sensitivity: 0.5878963 
+Specificity: 0.9620596 
+FPR: 0.03794038 
+FNR: 0.4121037 
+
+Cutoff: 0.4 
+Accuracy: 0.835023 
+Sensitivity: 0.6829971 
+Specificity: 0.9065041 
+FPR: 0.09349593 
+FNR: 0.3170029 
+
+Cutoff: 0.3 
+Accuracy: 0.8359447 
+Sensitivity: 0.685879 
+Specificity: 0.9065041 
+FPR: 0.09349593 
+FNR: 0.314121 
+
+Cutoff: 0.2 
+Accuracy: 0.8092166 
+Sensitivity: 0.8357349 
+Specificity: 0.796748 
+FPR: 0.203252 
+FNR: 0.1642651 
+
+Cutoff: 0.1 
+Accuracy: 0.6396313 
+Sensitivity: 0.945245 
+Specificity: 0.495935 
+FPR: 0.504065 
+FNR: 0.05475504 

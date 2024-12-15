@@ -1,0 +1,230 @@
+Evaluating Model: forward 
+Setting levels: control = 0, case = 1
+Setting direction: controls < cases
+
+Cutoff: 0.5 
+Accuracy: 0.8651297 
+Misclassification Error Rate: 0.1348703 
+Kappa: 0.6788084 
+Sensitivity: 0.718638 
+Specificity: 0.9345794 
+Precision: 0.8389121 
+F1-Score: 0.7741313 
+AUC: 0.9111845 
+Confusion Matrix:
+          Reference
+Prediction    0    1
+         0 1100  157
+         1   77  401
+
+Cutoff: 0.4 
+Accuracy: 0.8564841 
+Misclassification Error Rate: 0.1435159 
+Kappa: 0.6697035 
+Sensitivity: 0.7688172 
+Specificity: 0.8980459 
+Precision: 0.7814208 
+F1-Score: 0.7750678 
+Confusion Matrix:
+          Reference
+Prediction    0    1
+         0 1057  129
+         1  120  429
+
+Cutoff: 0.3 
+Accuracy: 0.8334294 
+Misclassification Error Rate: 0.1665706 
+Kappa: 0.6339665 
+Sensitivity: 0.8225806 
+Specificity: 0.8385726 
+Precision: 0.7072419 
+F1-Score: 0.7605634 
+Confusion Matrix:
+          Reference
+Prediction   0   1
+         0 987  99
+         1 190 459
+
+Cutoff: 0.2 
+Accuracy: 0.7988473 
+Misclassification Error Rate: 0.2011527 
+Kappa: 0.578178 
+Sensitivity: 0.8637993 
+Specificity: 0.7680544 
+Precision: 0.6384106 
+F1-Score: 0.7341965 
+Confusion Matrix:
+          Reference
+Prediction   0   1
+         0 904  76
+         1 273 482
+
+Cutoff: 0.1 
+Accuracy: 0.7060519 
+Misclassification Error Rate: 0.2939481 
+Kappa: 0.4411765 
+Sensitivity: 0.9336918 
+Specificity: 0.5981308 
+Precision: 0.5241449 
+F1-Score: 0.6713918 
+Confusion Matrix:
+          Reference
+Prediction   0   1
+         0 704  37
+         1 473 521
+
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+Evaluating Model: backward 
+Setting levels: control = 0, case = 1
+Setting direction: controls < cases
+
+Cutoff: 0.5 
+Accuracy: 0.8691643 
+Misclassification Error Rate: 0.1308357 
+Kappa: 0.6879583 
+Sensitivity: 0.7222222 
+Specificity: 0.9388275 
+Precision: 0.8484211 
+F1-Score: 0.7802517 
+AUC: 0.9114768 
+Confusion Matrix:
+          Reference
+Prediction    0    1
+         0 1105  155
+         1   72  403
+
+Cutoff: 0.4 
+Accuracy: 0.8576369 
+Misclassification Error Rate: 0.1423631 
+Kappa: 0.672046 
+Sensitivity: 0.7688172 
+Specificity: 0.8997451 
+Precision: 0.7842779 
+F1-Score: 0.7764706 
+Confusion Matrix:
+          Reference
+Prediction    0    1
+         0 1059  129
+         1  118  429
+
+Cutoff: 0.3 
+Accuracy: 0.8386167 
+Misclassification Error Rate: 0.1613833 
+Kappa: 0.6442402 
+Sensitivity: 0.8243728 
+Specificity: 0.8453696 
+Precision: 0.7165109 
+F1-Score: 0.7666667 
+Confusion Matrix:
+          Reference
+Prediction   0   1
+         0 995  98
+         1 182 460
+
+Cutoff: 0.2 
+Accuracy: 0.7976945 
+Misclassification Error Rate: 0.2023055 
+Kappa: 0.5753944 
+Sensitivity: 0.8602151 
+Specificity: 0.7680544 
+Precision: 0.6374502 
+F1-Score: 0.7322654 
+Confusion Matrix:
+          Reference
+Prediction   0   1
+         0 904  78
+         1 273 480
+
+Cutoff: 0.1 
+Accuracy: 0.7054755 
+Misclassification Error Rate: 0.2945245 
+Kappa: 0.4394234 
+Sensitivity: 0.9301075 
+Specificity: 0.5989805 
+Precision: 0.5237134 
+F1-Score: 0.6701097 
+Confusion Matrix:
+          Reference
+Prediction   0   1
+         0 705  39
+         1 472 519
+
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+Evaluating Model: stepwise 
+Setting levels: control = 0, case = 1
+Setting direction: controls < cases
+
+Cutoff: 0.5 
+Accuracy: 0.8651297 
+Misclassification Error Rate: 0.1348703 
+Kappa: 0.6788084 
+Sensitivity: 0.718638 
+Specificity: 0.9345794 
+Precision: 0.8389121 
+F1-Score: 0.7741313 
+AUC: 0.9111845 
+Confusion Matrix:
+          Reference
+Prediction    0    1
+         0 1100  157
+         1   77  401
+
+Cutoff: 0.4 
+Accuracy: 0.8564841 
+Misclassification Error Rate: 0.1435159 
+Kappa: 0.6697035 
+Sensitivity: 0.7688172 
+Specificity: 0.8980459 
+Precision: 0.7814208 
+F1-Score: 0.7750678 
+Confusion Matrix:
+          Reference
+Prediction    0    1
+         0 1057  129
+         1  120  429
+
+Cutoff: 0.3 
+Accuracy: 0.8334294 
+Misclassification Error Rate: 0.1665706 
+Kappa: 0.6339665 
+Sensitivity: 0.8225806 
+Specificity: 0.8385726 
+Precision: 0.7072419 
+F1-Score: 0.7605634 
+Confusion Matrix:
+          Reference
+Prediction   0   1
+         0 987  99
+         1 190 459
+
+Cutoff: 0.2 
+Accuracy: 0.7988473 
+Misclassification Error Rate: 0.2011527 
+Kappa: 0.578178 
+Sensitivity: 0.8637993 
+Specificity: 0.7680544 
+Precision: 0.6384106 
+F1-Score: 0.7341965 
+Confusion Matrix:
+          Reference
+Prediction   0   1
+         0 904  76
+         1 273 482
+
+Cutoff: 0.1 
+Accuracy: 0.7060519 
+Misclassification Error Rate: 0.2939481 
+Kappa: 0.4411765 
+Sensitivity: 0.9336918 
+Specificity: 0.5981308 
+Precision: 0.5241449 
+F1-Score: 0.6713918 
+Confusion Matrix:
+          Reference
+Prediction   0   1
+         0 704  37
+         1 473 521
+
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
